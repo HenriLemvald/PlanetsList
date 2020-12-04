@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\bin\Debug\netcoreapp3.1\ReadPlanetsList.exe
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\bin\Debug\netcoreapp3.1\ReadPlanetsList.deps.json
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\bin\Debug\netcoreapp3.1\ReadPlanetsList.runtimeconfig.json
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\bin\Debug\netcoreapp3.1\ReadPlanetsList.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\bin\Debug\netcoreapp3.1\ReadPlanetsList.dll
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\bin\Debug\netcoreapp3.1\ReadPlanetsList.pdb
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.dll
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.pdb
+C:\Users\opilane\source\repos\Planets1\ReadPlanetsList\obj\Debug\netcoreapp3.1\ReadPlanetsList.genruntimeconfig.cache
